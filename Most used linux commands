@@ -1,3 +1,5 @@
 cd
 cp
 mv
+
+date=$(date +%Y%m%d)
